@@ -1,0 +1,16 @@
+MIDlet-1: MidletFiche, , mobileapplicationbabysitting.MidletFiche
+MIDlet-2: MidletReclamation, , mobileapplicationbabysitting.MidletReclamation
+MIDlet-3: Midlet_Admin, ,mobileapplicationbabysitting.Midlet
+MIDlet-4: PieChartMIDlet, , mobileapplicationbabysitting.PieChartMIDlet
+MIDlet-5: Midlet_chercherReclamation, , mobileapplicationbabysitting.Midlet_chercherReclamation
+MIDlet-6: Midlet_chercherFicheBabysitter, , mobileapplicationbabysitting.Midlet_chercherFicheBabysitter
+MIDlet-7: Midlet_Babysitter, , mobileapplicationbabysitting.Midlet_Babysitter
+MIDlet-8: Midlet_AjoutParent, , mobileapplicationbabysitting.Midlet_AjoutParent
+MIDlet-9: Midlet_Stat, , mobileapplicationbabysitting.Midlet_Stat
+MIDlet-Jar-Size: 72408
+MIDlet-Jar-URL: Babysitting-J2ME.jar
+MIDlet-Name: Babysitting-J2ME
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
